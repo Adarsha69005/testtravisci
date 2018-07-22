@@ -1,3 +1,3 @@
 # testtravisci
 integrating travisci with github
- https://travis-ci.org/Adarsha69005/testtravisci.svg?branch=master
+ [![Build Status](https://travis-ci.org/Adarsha69005/testtravisci.svg?branch=master)](https://travis-ci.org/Adarsha69005/testtravisci)

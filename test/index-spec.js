@@ -9,7 +9,7 @@ describe('calculator', function(){
     });
     describe('subtract function', function(){
         it('subtract numbers', function(){
-            let subres = calculator.subtract(5,2);
+            let subres = calculator.subtract(5,3);
             assert.equal(subres,3);
         });
     });

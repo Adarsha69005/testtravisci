@@ -7,4 +7,10 @@ describe('calculator', function(){
             assert.equal(result,2);
         });
     });
+    describe('subtract function', function(){
+        it('subtract numbers', function(){
+            let subres = calculator.subtract(5,2);
+            assert.equal(subres,3);
+        });
+    });
 });
